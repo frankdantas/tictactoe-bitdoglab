@@ -1,6 +1,6 @@
 # tictactoe-bitdoglab
 
-Desenvolvi esse jogo para testar os diversos recursos da BigDogLab e também do processador Raspberry Pi Pico W RP2040. É uma versão simpleficada e minimalista do jogo da velha.
+Desenvolvi esse jogo para testar os diversos recursos da BigDogLab que foi fornecida pelo curso do Institudo do Hardware BR com o processador Raspberry Pi Pico W RP2040. É uma versão simpleficada e minimalista do jogo da velha.
 
 ## Como jogar?
 
@@ -16,3 +16,4 @@ No display é possível ver a pontuação de cada jogador e quando o jogo acaba 
 - Comunicação i2c para o display SSD1306.
 - Timer e alarm para interrupções baseadas em tempo.
 - Uso de multicore para o buzzer não 'travar' os leds enquanto toca.
+- Placa de circuito BitDogLab: https://github.com/BitDogLab/BitDogLab
