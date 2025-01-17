@@ -4,7 +4,7 @@ Desenvolvi esse jogo para testar os diversos recursos da BigDogLab e também do 
 
 ## Como jogar?
 
-Use o joystic para mover o cursor (led piscando) entre as células do jogo. O botão A é o player 1 e o botão B o player 2. No display é possível ver a pontuação de cada jogador.
+Use o joystic para mover o cursor (led piscando) entre as células do jogo. O botão A é o player 1 e o botão B o player 2. No display é possível ver a pontuação de cada jogador. Quando o jogo acaba um som é tocado para indicar que houve ganhador ou empate.
 
 ## Recursos
 
