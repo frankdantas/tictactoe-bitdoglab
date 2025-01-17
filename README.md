@@ -1,6 +1,6 @@
 # tictactoe-bitdoglab
 
-Desenvolvi esse jogo para testar os diversos recursos da BigDogLab que foi fornecida pelo curso do Institudo do Hardware BR com o processador Raspberry Pi Pico W RP2040. É uma versão simpleficada e minimalista do jogo da velha.
+Desenvolvi esse jogo para testar os diversos recursos da BigDogLab que foi fornecida pelo curso do Institudo do Hardware BR com o processador Raspberry Pi Pico W RP2040. É uma versão simplificada e minimalista do jogo da velha.
 
 ## Como jogar?
 
